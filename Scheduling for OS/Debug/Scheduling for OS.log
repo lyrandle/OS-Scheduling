@@ -1,0 +1,14 @@
+﻿  RoundRobin.cpp
+  ShortestJobFirst.cpp
+C:\Users\lyric\source\repos\Scheduling for OS\Scheduling for OS\ShortestJobFirst.cpp(15,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\lyric\source\repos\Scheduling for OS\Scheduling for OS\ShortestJobFirst.cpp(31,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\lyric\source\repos\Scheduling for OS\Scheduling for OS\ShortestJobFirst.cpp(56,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\lyric\source\repos\Scheduling for OS\Scheduling for OS\ShortestJobFirst.cpp(79,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\lyric\source\repos\Scheduling for OS\Scheduling for OS\ShortestJobFirst.cpp(95,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\lyric\source\repos\Scheduling for OS\Scheduling for OS\ShortestJobFirst.cpp(100,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\lyric\source\repos\Scheduling for OS\Scheduling for OS\ShortestJobFirst.cpp(102,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\lyric\source\repos\Scheduling for OS\Scheduling for OS\ShortestJobFirst.cpp(123,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\lyric\source\repos\Scheduling for OS\Scheduling for OS\ShortestJobFirst.cpp(128,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\lyric\source\repos\Scheduling for OS\Scheduling for OS\ShortestJobFirst.cpp(130,21): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+  Scheduling for OS.vcxproj -> C:\Users\lyric\source\repos\Scheduling for OS\Debug\Scheduling for OS.exe
